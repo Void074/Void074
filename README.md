@@ -1,10 +1,22 @@
 ### Hi there 👋
 
-Most of my projects are hosted on [here](https://bitbucket.org/void074/). But I will be also pushing a couple of my personal projects from BitBucket to Github. I am currently working on the following personal project:
-
-- Sinatra Template, which I hope to turn into a Ruby gem called **Frank**, heavily inspired by Ruby on Rails
-- Tspace (Tmux Workspaces), another personal project for creating Tmux Worskspaces, inspired by Tmuxniator and VS Code Workspace
-- [GuriaLabs](https://roguelabs.netlify.app/), a blogsite built and hosted on Netlify (Currently moving site from Jeykell to Svelte and name change to GuraLabs)
+Most of my projects are hosted on [here](https://gitlab.com/void074). Currently redefining myself and my goals as I look into venturing into the SaaS or BasS space.
+- [GuriaLabs](https://gurialabs.pages.dev/) - which is sitll a working in progress
 - [GuriaLinux](https://gurialinux.netlify.app/), a personal project that is a work in progress
 
-Most of these projects are mainly for my personal learning and my own consumption, I however, will try as much and possible to make it easier for anyone to use (to some degree).
+Most of the projects are for my own personal learning and sharing knowledge on what I learnt so far...
+
+Currently still breaking into
+
+- Netlify and Cloudflare
+- JavaScript, NodeJS, PNPM, ReactJS, ExpressJS and Chakra UI
+- MySQL, PostgreSQL and Cloudflare's D1, not for getting Neon
+- Server Management and Task Automation with Bash and Perl
+
+## Things on the fence
+
+This are things that I am unable to make a decision on
+
+- Rust
+- Supabase
+- Deno
