@@ -8,7 +8,7 @@ Most of the projects are for my own personal learning and sharing knowledge on w
 
 Currently still breaking into
 
-- Netlify and Cloudflare
+- Cloudflare
 - JavaScript, NodeJS, PNPM, ReactJS, ExpressJS and Chakra UI
 - MySQL, PostgreSQL and Cloudflare's D1, not for getting Neon
 - Server Management and Task Automation with Bash and Perl
