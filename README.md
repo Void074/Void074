@@ -1,1 +1,1 @@
-You can find me over at [Gitlab](https://gitlab.com/void074) or at [CodeBerg](https://codeberg.org/Void074]. Currently working on my website, you can visit here [GuriaLabs](https://gurialabs.fly.dev/), which still needs abit move love and attention.
+You can find me over at [Gitlab](https://gitlab.com/void074) or at [CodeBerg](https://codeberg.org/Void074). Currently working on my website, you can visit here [GuriaLabs](https://gurialabs.fly.dev/), which still needs abit move love and attention.
